@@ -1,4 +1,3 @@
-@@ -1,36 +1,31 @@
 <!--
 This readme version is a simplified version of this one : https://github.com/othneildrew/Best-README-Template
 -->
@@ -13,21 +12,12 @@ This readme version is a simplified version of this one : https://github.com/oth
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url]
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `github_repo`, `twitter_handle`, `email`
-
-Then you can delete these lines !
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o Projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Captura de tela 2024-04-08 212402](https://github.com/Felipeacandido/Mini-Pi/assets/161148912/6c407cfe-3311-4db5-96f5-8ccda65d8567)
+
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -37,9 +27,6 @@ Here you can describe the project, why you made it and **for who you made it**, 
 
 ### Built With
 
-* []()
-* []()
-* []()
 * 🖊️ Markdown
 * 🐙 Github
 * 💻 VS Code
@@ -56,31 +43,6 @@ This is an example of how to list things you need to use the software and how to
 npm install npm@latest -g
 sudo apt-get install git
 ```
-
-### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/github_username/repo.git
-git clone https://github.com/NicolasBrondin/basic-readme-template
-```
-2. Install NPM packages
-2. Open VS Code
-3. Install Markdown Preview Enhancement plugin
-3. Open the README.md file and execute the following command
-```sh
-npm install
-ctrl+k v
-```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-@@ -71,33 +67,31 @@ _For more examples, please refer to the [Documentation](https://example.com)_
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
 Project Link: [https://github.com/github_username/github_repo](https://github.com/github_username/github_repo)
